@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano
+    4  ls
+    5  git-clone https://github.com/azmuths602/RTR108
+    6  git clone https://github.com/azmuths602/RTR108
+    7  ls
+    8  cd RTR108
+    9  git clone https://github.com/azmuths602/RTR105
+   10  ./git-upload 20200130_10_36
+   11  ./git-upload 159
+   12  ./git-upload 20203001_10_36
+   13  ls
+   14  git clone https://github.com/azmuths602/RTR108
+   15  ls
+   16  cd RTR108
+   17  ls
+   18  ./git-upload 20200130_10_45
+   19  ./git-upload1 20200130_10_45
+   20  ls
+   21  ./git-upload1 20200130_10_45
+   22  ./git-upload1
+   23  ./git-upload
+   24  ./git-upload1 jhf
+   25  ./git-upload1 20200130_10_58
+   26  cd RTR109
+   27  cd RTR108
+   28  python
+   29  ipython
+   30  idle
+   31  cd RTR018
+   32  cd RTR108
+   33  pyton2 -m SimpleHTTPServer 8000
+   34  python2 -m SimpleHTTPServer 8000
+   35  history
+   36  history 20203001
+   37  history 20200130
+   38  history >>history_20200130.txt
